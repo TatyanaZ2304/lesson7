@@ -1,0 +1,39 @@
+.header{
+  font-size: 35px;
+    font-style: italic;
+    color:rgb(218, 196, 170);
+  }
+.header .todos{
+    color:rgb(223, 106, 90);
+  }
+  .inp{
+    margin-right: 5px;
+    width: 220px;
+    height: 20px;
+    font-size: 20px;
+    border: 1px solid rgb(48, 20, 20);
+    border-radius: 7px; 
+    background-color: rgb(219, 207, 204);
+  }
+  .subm{
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    border: 1px solid brown;
+    border-radius: 7px; 
+    color:rgb(31, 1, 19);
+    background-color: rgb(156, 59, 83);
+  }
+  .btn{
+    margin-left: 70px;
+    width: 50px;
+    height: 23px;
+    font-size: 13px;
+    border: 1px solid brown;
+    border-radius: 7px; 
+    color:rgb(31, 1, 19);
+    background-color: rgb(139, 98, 129);
+  }
+  .check{
+    margin-right: 120px;
+  }
